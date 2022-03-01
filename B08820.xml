@@ -1,0 +1,412 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A confession of faith, of the holy separated church of God</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08820</idno>
+            <idno type="STC">Wing C5781A</idno>
+            <idno type="STC">ESTC R224269</idno>
+            <idno type="EEBO-CITATION">64551130</idno>
+            <idno type="OCLC">ocm 64551130</idno>
+            <idno type="VID">184491</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08820)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184491)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2865:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A confession of faith, of the holy separated church of God</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+                  <note>Includes bibliographical references.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Controversial literature --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184491:1"/>
+            <head>A Confesſion of Faith, Of the Holy Separated Church of GOD.</head>
+            <p>
+               <seg rend="decorInit">I</seg> 
+               <hi>Beleeve</hi> 
+               <note n="(a)" place="margin">2 Cor. 4. 13.</note> in <hi>one</hi> 
+               <note n="(b)" place="margin">1 Cor. 8. 6.</note> 
+               <hi>Eternall Immotall inviſible and onely wiſe God</hi> 
+               <note n="(c)" place="margin">1 Tim. 1. 17.</note> 
+               <hi>whoſe name alone is Jehovah</hi> 
+               <note n="(d)" place="margin">Pſal. 83. 18. Iſa. 37. 20.</note> The Infinite <note n="(e)" place="margin">Job 5. 9. Pſalm. 147. 5.</note> foreſeer <note n="(f)" place="margin">Gal. 3. 8. 2 Tim. 3. 16, 17. Iſa. 48. 3, 5-8.</note> and <hi>Almighty</hi> 
+               <note n="(g)" place="margin">Gen. 17. 1.</note> 
+               <hi>Creator</hi> 
+               <note n="(h)" place="margin">Iſa 40, 28. Eph. 3. 9. Rev. 4. 11.</note> 
+               <hi>pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſerver</hi> 
+               <note n="(i)" place="margin">Neh. 9. 6. (Pſal. 36. 6. Job 7. 20.</note> and <hi>governour</hi> 
+               <note n="(k)" place="margin">Pſalm. 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 28. Iſa. 9. 7. Act. 17. 26.</note> of all things, both in heaven, and earth, Who is diſtinguiſhed into <hi>three which beare record in heavn, the Father, the word, and the holy Spirit</hi> 
+               <note n="(l)" place="margin">1 Joh. 5. 7.</note> And that the Eternall <note n="(m)" place="margin">John 1. 1, 2, 3.</note> Son, of the Eternall Father, to manifeſt <hi>the free</hi> 
+               <note n="(n)" place="margin">Rom. 5. 15, 16.</note> and <hi>everlaſting love</hi> 
+               <note n="(o)" place="margin">Jer. 31. 3.</note> and <hi>manifold</hi> 
+               <note n="(p)" place="margin">Neh. 19.</note> 
+               <hi>rich</hi> 
+               <note n="(q)" place="margin">Eph. 2. 4.</note> 
+               <hi>mercies</hi> 
+               <note n="(r)" place="margin">Zech. 1. 16.</note> 
+               <hi>of God</hi> 
+               <note n="(ſ)" place="margin">Rom. 12 1. Iſa. 54. 7, 8. &amp; 55. 3.</note> unto the ſons of men <note n="(t)" place="margin">Rom. 11. 32.</note> willingly came <note n="(u)" place="margin">Pſal. 40. 8, 9.</note> and miraculouſly <note n="(w)" place="margin">Luk. 1. 34, 35.</note> 
+               <hi>tooke</hi> 
+               <note n="(x)" place="margin">Heb. 2. 14, 16, 17. John 1. 14.</note> 
+               <hi>upon him</hi> 
+               <note n="(y)" place="margin">Phil. 2. 7, 8.</note> our nature of Creation <note n="(z)" place="margin">Heb. 4. 15.</note> 
+               <!-- * --> And was <hi>conceived by the power</hi> of <hi>the holy Ghoſt</hi> 
+               <note n="(a*)" place="margin">Mat. 1. 18, 20.</note> 
+               <hi>in</hi> the <hi>wombe</hi> 
+               <note n="(b*)" place="margin">Lu. 1. 31.</note> of <hi>the Virgin Mary</hi> 
+               <note n="(c*)" place="margin">
+                  <hi>v.</hi> 27.</note> of whom he was alſo <hi>born</hi> 
+               <note n="(d*)" place="margin">
+                  <hi>v.</hi> 35. &amp; 2. 7, 11.</note> that he might not onely be our God, but alſo our <hi>Emanuell,</hi> even <hi>God with us</hi> 
+               <note n="(e*)" place="margin">Mat 1. 23.</note> being <hi>ſent</hi> of God <note n="(f*)" place="margin">Joh. 17. 3</note> 
+               <hi>into the world</hi> 
+               <note n="(g*)" place="margin">John 10. 36.</note> and given <note n="(h*)" place="margin">John 6. 32, 35. Rom. 8. 32.</note> 
+               <hi>from him</hi> 
+               <note n="(i*)" place="margin">Joh. 7. 29.</note> 
+               <hi>that whoſoever believe eth in him ſhould not periſh</hi> 
+               <note n="(k*)" place="margin">Joh. 3. 15.</note> 
+               <hi>but haveeverlaſting life</hi> 
+               <note n="(l*)" place="margin">
+                  <hi>v.</hi> 16.</note> And for the ſatisfaction of Gods Juſtice <note n="(m*)" place="margin">Rom. 8. 33, 34. Acts 13. 38. 39.</note> for <hi>all</hi> 
+               <note n="(n*)" place="margin">Mich. 7. 19. 1 Joh. 1. 7. 9.</note> 
+               <hi>our ſins and</hi> 
+               <note n="(o*)" place="margin">Gal. 1. 4. 1 Pet. 2. 24.</note> 
+               <hi>iniquities</hi> 
+               <note n="(p*)" place="margin">Iſa. 53. 5, 6.</note> and <hi>to make</hi> 
+               <note n="(q*)" place="margin">Eph. 2. 13. 15. Joh. 17 23.</note> 
+               <hi>a perfect</hi> 
+               <note n="(r*)" place="margin">Heb. 7. 19, 22, 27.</note> 
+               <hi>peace</hi> 
+               <note n="(s*)" place="margin">Mich. 5. 5 Eph. 2. 14, 15. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hil. 4. 7.</note> and full <hi>reconciliation</hi> 
+               <note n="(t*)" place="margin">Dan. 9. 24.</note> 
+               <hi>between</hi> 
+               <note n="(u*)" place="margin">1 Tim. 2. 5.</note> 
+               <hi>God</hi> and <hi>the ſonnes of men</hi> 
+               <note n="(w*)" place="margin">Mark. 3. 28. Pſal. 68. 19.</note> that ſo they might <hi>become the ſons of God by faith in his name</hi> 
+               <note n="(x*)" place="margin">Joh. 1. 12. 1 Joh. 3. 1.</note> 
+               <note n="(y*)" place="margin">Gal. 3. 26.</note> 
+               <note n="(z*)" place="margin">John 20. 31. Acts 10. 43.</note> 
+               <!-- ** --> This <hi>bleſſed</hi> 
+               <note n="(a**)" place="margin">Luke 19. 38. Pſ. 21. 7.</note> 
+               <hi>Saviour</hi> 
+               <note n="(b**)" place="margin">1 Joh. 4. 14.</note> of Saints <note n="(c**)" place="margin">Mat. 1. 21.</note> The <hi>Anointed</hi> one of the <hi>God</hi> 
+               <note n="(d**)" place="margin">Acts 10. 38.</note> of <hi>Jacob humbled himſelfe</hi> 
+               <note n="(e**)" place="margin">Phil. 2. 8<g ref="char:punc">▪</g>
+               </note> exceedingly, and bare <hi>our griefs, and carried our ſorrows</hi> 
+               <note n="(f**)" place="margin">Iſa. 53 4.</note> And though he was always pure, even fully without <hi>ſin</hi> 
+               <note n="(g**)" place="margin">1 Pet. 2. 22.</note> yet <hi>according</hi> to the Fa<g ref="char:EOLhyphen"/>thers appointment <note n="(i**)" place="margin">1 Theſ. 5. 9.</note> 
+               <hi>his owne ſelfe bare our ſins in his owne body on the tree</hi> 
+               <note n="(k**)" place="margin">1 Pet 2. 24.</note> and was <hi>an offering and a ſacrifice to God for a ſweet ſmelling ſavour</hi> 
+               <note n="(l**)" place="margin">Eph. 5. 2.</note> for us, which made us <hi>acceptable to God</hi> 
+               <note n="(m**)" place="margin">1 Pet. 2. 5.</note> 
+               <hi>and</hi> was <hi>Crucified</hi> 
+               <note n="(n**)" place="margin">Mat. 27. 35.</note> And pouring out <hi>his ſoul unto death, Dyed,</hi> Commending his <hi>ſpirit into</hi> the <hi>hands</hi> of his <hi>heavenly Father</hi> 
+               <note n="(o**)" place="margin">Luk. 23. 46.</note> 
+               <hi>He bowed his head, And gave up the Ghoſt, Was pierced in his Side, Taken down from the Croſſe, And buried</hi> immediately, But <hi>he roſe againe the third day according to the Scriptures</hi> 
+               <note n="(p**)" place="margin">1 Cor. 15. 4.</note> 
+               <hi>the Evening and the Morning</hi> being counted for the compleat Day, as it was <hi>in the beginning</hi> before the Sun or Moone was <hi>created</hi> 
+               <note n="(q**)" place="margin">Gen. 1. 5, 8, 13.</note> Which <hi>Day</hi> 
+               <note n="(r**)" place="margin">Levit. 23. 11, 14, 16, 21, 32, 39.</note> he <hi>hath made</hi> 
+               <note n="(s**)" place="margin">Pſal. 118. 24.</note> 
+               <hi>holy</hi> 
+               <note n="(t**)" place="margin">Iſa. 58. 13.</note> for man to reſt from all ſervile work <note n="(u**)" place="margin">Pſal. 84. 11.</note> and to ſpend in the worſhip <note n="(w**)" place="margin">Pſal 92. Acts 2.</note> and ſervice of God, And <hi>after he had ſhewed himſelf alive,</hi> unto his <hi>choſen Apoſtles, by many infallible proofes,</hi> 
+               <note n="(x**)" place="margin">Acts 1. 2, 3. 1 Cor. 15. 5, 6, 7.</note> 
+               <hi>He aſcended</hi> 
+               <note n="(y**)" place="margin">Acts 1. 9-11. Luk. 24. 51.</note> 
+               <hi>up on high</hi> 
+               <note n="(z**)" place="margin">Eph. 4. 8. <hi>v.</hi> 10.</note> above <hi>into</hi> the glorious Heavens <!-- *** -->
+<note n="(a***)" place="margin">Heb. 8. 1 &amp; 9. 24. 1 Pet. 3. 22. Acts 2. 34. &amp; 3. 21.</note> where he is even <hi>at the right hand of God</hi> 
+               <note n="(b***)" place="margin">Marke 16. 19. Acts 7. 56. 1 Pet. 3. 22.</note> making <hi>interceſſion for us</hi> 
+               <note n="(c***)" place="margin">Rom. 8. 34.</note> who gave Commiſſion unto his <hi>Diſciples</hi> 
+               <note n="(d***)" place="margin">Mat. 28. 16, 19.</note> that they ſhould teach his <hi>diſciples</hi> to doe and <hi>obſerve all things whatſoever</hi> he <hi>commanded</hi> them <note n="(e***)" place="margin">
+                  <hi>v.</hi> 20.</note> And ſent the Spirit of Truth <note n="(f***)" place="margin">Acts 2.</note> according to his Promiſe <note n="(g***)" place="margin">Joh. 14. 16, 17, 26. &amp; 15. 26. &amp; 16. 7.</note> to lead them into all truth And to abide with <note n="(h***)" place="margin">Mat. 28. 18, 19, 20. Eph. 4. 8. 12. Pſal. 16. 3.</note> them, for their comfort, all the time of his abſence from them, And to confirm their holy actions, amongſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which, to erect Congregations <hi>of Saints,</hi> here, <hi>on Earth (h)</hi> with Miniſters <note n="(i***)" place="margin">Rev. 1. 20. Tit. 1. 5.</note> 
+               <hi>And ad<g ref="char:EOLhyphen"/>miniſtrations</hi> 
+               <note n="(k***)" place="margin">1 Cor. 12. 5.</note> was a ſpeciall thing <note n="(l***)" place="margin">Eph. 4. 14-16.</note> In which Moſt Excellent State <note n="(m***)" place="margin">Pſal. 87. <hi>&amp;</hi> 84. 11.</note> they holding <hi>Repentance from dead works, and Faith towards God, the Doctrine of Baptiſmes, and the Laying on of hands, the Reſurrection from the dead, and eternall Judgement,</hi> muſt <hi>goe on to Perfection</hi> 
+               <note n="(n***)" place="margin">Heb. 6. 1, 2.</note> in the conſtant and continual Practice of <hi>the Great Miſtery of Godlineſſe,</hi> according to the Direction of the bleſſed Word and <hi>Spirit</hi> 
+               <note n="(o***)" place="margin">1 Tim. 3. 14-16. <hi>&amp;</hi> 4. 1-13-16.</note> By which the <hi>Man of Sin</hi> 
+               <note n="(p***)" place="margin">2 Theſ. 2. 3-12.</note> in <hi>The Miſtery of Iniquity</hi> is diſcovered to be a <hi>Church of Malignant men</hi> 
+               <note n="(q***)" place="margin">Pſ. 26 5.</note> compacted together as One Man, to <hi>eſtabliſh Iniquity by a Law</hi> and to ſet up <hi>ſpirituall wickedneſſes, in high places,</hi> Living in <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>de, idleneſſe, and fulneſſe of bread, and being without compaſſion of the poore, ful<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Trianny, and violent rage againſt the Righteous <note n="(r" place="margin">Rev. 12, 6, 7, 12, 15, 17.</note> and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing their Righteous Souls with their Inclean Converſations Shedding <hi>the bloud of</hi> the precious <hi>Saints and Prophets</hi> 
+               <note n="(s***)" place="margin">Rev. 16. 6. &amp; 17. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> Therefore theſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re <hi>ſpiritually called Sodome and Egypt where our Lord was Crucified</hi> 
+               <note n="(t***)" place="margin">Rev. 11. 8.</note> Bearing the names of <hi>The Beeſt</hi> 
+               <note n="(u***)" place="margin">Rev. 13. 1. 11, 14, 15.</note> 
+               <hi>Whore</hi> 
+               <note n="(w***)" place="margin">Rev. 17. 1.</note> 
+               <hi>of Babilon</hi> 
+               <note n="(x***)" place="margin">Rev. 17. 5, 18.</note> &amp; <hi>Falſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rophe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 
+               <note n="(y***)" place="margin">Rev. 16. 13. &amp; 19, 20.</note> whoſe end is utter deſtruction <note n="(z***)" place="margin">Rev. 18. <hi>&amp;</hi> 19.</note> 
+               <!-- **** --> And therefore I am throughly convinced in Conſcience of the falſeneſſe of the malignant Church of <hi>England,</hi> And of the evill of all other States which are contrary to Chriſts Inſtitutions, knowing that our great <hi>high Prieſt,</hi> who is <hi>holy, harmeleſs, undefiled,</hi> and <hi>ſeparated from ſinners</hi> 
+               <note n="(a****)" place="margin">Heb. 7. 26.</note> would have his people avoid all manner and mea<g ref="char:EOLhyphen"/>ſure of ſpirituall <hi>Communion</hi> 
+               <note n="(b****)" place="margin">2 Cor. 6. 14-17.</note> with ſuch, he having called us <note n="(c****)" place="margin">Rev. 18. 4.</note> from the <hi>fellowſhip</hi> of <hi>Devills</hi> 
+               <note n="(d****)" place="margin">1 Cor. 10. 20, 21.</note> and wicked men <note n="(e****)" place="margin">2 Cor. 6. 17.</note> that we may not in a way of ſpirituall worſhip <hi>ſit with mortall men of falſe vanity, nor goe in with diſſemblers, but hate the Church of evill doers, and not fit with the wicked.</hi> 
+               <note n="(f****)" place="margin">Pſal. 26. 4, 5.</note> Therefore according to Chriſts Inſtitutions and Commandements being with my Seed <note n="(g****)" place="margin">Exo. 10. 9.</note> and ſubſtance <note n="(h****)" place="margin">
+                  <hi>V.</hi> 25, 26.</note> fully ſeparated, not onely from them, but alſo from thoſe, who communicate with them, either in their Publick Congregations, or private ſocieties; I doe reſolve, through the grace of the ever-living-God, who hath brought me out of Babell, never to returne to their vaine inventions, their humane deviſes, abo<g ref="char:EOLhyphen"/>minable Idolatries, nor ſuperſtitious high places which were built and dedicated to Idolatry, but to <hi>abſtaine from all appearance of evill</hi> 
+               <note n="(i****)" place="margin">1 Theſ. 5. 22.</note> 
+               <hi>and</hi> to <hi>worſhip</hi> God onely <hi>in ſpirit and truth</hi> 
+               <note n="(k****)" place="margin">Joh. 4. 24.</note> according to that manner, which he hath preſcribed in his word, without adding or diminiſhing. <note n="(l****)" place="margin">Deut. 4. 2. Prov. 30. 6. Rev. 22. 18, 19.</note> And through the light of the holy Scriptures, I clearly ſee, not onely the neceſſity of this holy way of Separation, in obedience to the heavenly Call, but alſo the great need of continuing in Chriſtian Fellowſhip, Communion, and Society of Saints, And that to be of the Viſible Particular Church of Chriſt, is moſt needfull for the Sain<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s edification in this life; For to that heavenly company is <hi>committed the Oracles of God</hi> 
+               <note n="(m****)" place="margin">Rom. 3. 2.</note> By them the Kingly, Prieſtly, Propheticall, and Apoſtolicall Offices of Jeſus Chriſt is to be ſet forth; For the King and <hi>Lord</hi> of all <hi>admi<g ref="char:EOLhyphen"/>niſtrations</hi> 
+               <note n="(n****)" place="margin">1 Cor. 12. 5.</note> who is that great <hi>Prophet</hi> 
+               <note n="(o****)" place="margin">Acts 3. 22, 23.</note> And <hi>the Apoſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e and high Prieſt of</hi> their <hi>profeſſion</hi> 
+               <note n="(p****)" place="margin">Heb. 3. 1.</note> 
+               <hi>hath ſet in the Church firſt Apoſtles, ſecondarily Prophets</hi> 
+               <note n="(q****)" place="margin">1 Cor. 12. 28.</note> 
+               <hi>then Evangeliſts, Paſtors, and Teachers</hi> 
+               <note n="(r****)" place="margin">Eph. 4. 11.</note> 
+               <hi>For the g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thering together, and perfecting, of the Saints, and for the worke of the Miniſtery, and for the edification of the body of Chriſt</hi> 
+               <note n="(s****)" place="margin">Eph. 4. 11.</note> 
+               <hi>untill the end of the world</hi> 
+               <note n="(t****)" place="margin">
+                  <hi>V.</hi> 13. Mat. 28. 19, 20.</note> 
+               <hi>Elders</hi> hath he alſo appointed to be Rulers of his people <note n="(u****)" place="margin">2 Tim. 5. 17. Rom. 12. 8.</note> And Deacons <note n="(w****)" place="margin">Acts 6. 3-5. Phil. 1. 1. 1 Tim. 3. 8-13.</note> to provide for the Congregation of his poore, that they may <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> called the City of righteouſneſſe, the faithfull City</hi> 
+               <note n="(x****)" place="margin">Iſa. 1. 26.</note> the <hi>habitation of Juſtice, and mountaine of holineſſe</hi> 
+               <note n="(y****)" place="margin">Jer. 31. 23.</note> the excellent <note n="(z****)" place="margin">Pſal. 84. <hi>&amp;</hi> 87.</note> Kingdom of gra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e,<!-- ***** -->
+ wherein they may injoy <hi>all</hi> the Ordinances of God <note n="(a*****)" place="margin">Mat. 28. 19, 20. 1 Cor. 3. 21, 22.</note> according to their capability, with their communicable Harmony <note n="(b*****)" place="margin">1 Cor. 14. 26. Eph. 5. 19. Col. 3. 16.</note> 
+               <hi>Diverſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ties of guifts</hi> 
+               <note n="(c*****)" place="margin">1 Cor. 12. 4.</note> 
+               <hi>Differences of Administrations,</hi> 
+               <note n="(d*****)" place="margin">
+                  <hi>V.</hi> 5.</note> 
+               <hi>and Operations</hi> 
+               <note n="(e*****)" place="margin">
+                  <hi>V.</hi> 6</note> according to the gracious diſpenſations of the <hi>Spirit</hi> of God <note n="(f*****)" place="margin">
+                  <hi>V.</hi> 11.</note> But the ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eeteſt thing is Chriſts <hi>name</hi> 
+               <note n="(g*****)" place="margin">Cant. 1. 3. Iſa. 9. 6.</note> and preſence <note n="(h*****)" place="margin">Mat. 18. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.</note> whereby it is knowne to be Syon <note n="(i*****)" place="margin">Pſal. 76. 1, 2, 3.</note> with whom he hath promiſed to be <note n="(k*****)" place="margin">132. 13.</note> and delighteth to <hi>ſit</hi> 
+               <note n="(l*****)" place="margin">14.</note> 
+               <hi>even unto the end of the world</hi> 
+               <note n="(m*****)" place="margin">Mat. 28. 20.</note> though they be never ſo few in number <note n="(n*****)" place="margin">18. 20.</note> And I am more and more poſſeſſed with the thought of the excellency thereof, And of the ſweet-cloſing-neer-communion which the Saints of God have with Chriſt therein <note n="(o*****)" place="margin">Cant. Pſ. 45. Rev. 14. 1-5</note> who allowes <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f particular <hi>Churches</hi> in any Nation <note n="(p*****)" place="margin">1 Cor. 16. 1. 2 Cor. 8. 1. 1 Theſ. 2. 14.</note> as he did of <hi>the Seven Churches in Aſia</hi> 
+               <note n="(q*****)" place="margin">Rev. 1. 11. 20. &amp; 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 16.</note> if ſo be that the great diſtance of place, exceeding <hi>a Sabboth dayes journey</hi> 
+               <note n="(r*****)" place="margin">Acts 1. 12.</note> drive them, or the greatneſſe of their number <note n="(s*****)" place="margin">Iſa. 49. 20.</note> draw them, to branch out themſelves into particular Societies, for their <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etter edification. The <hi>Body</hi> or Church of Chriſt being alwayes one, <note n="(t*****)" place="margin">Eph. 4. 4.</note> as at the firſt ſo at laſt, as there is <hi>one Spirit,</hi> And this Church, or King<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome of heaven, now upon Earth, is to <hi>keep and ſeeke for all the commandments of the LORD</hi> their <hi>God</hi> 
+               <note n="(u*****)" place="margin">1 Chro. 28. 8.</note> And to <hi>hold faſt</hi> 
+               <note n="(w*****)" place="margin">Heb. 10. 23.</note> the <hi>Covenant</hi> 
+               <note n="(x*****)" place="margin">Jer. 50. 5<g ref="char:punc">▪</g>
+               </note> of their Fellowſhip <note n="(y*****)" place="margin">2 Cor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n. 8. 5.</note> wherewith in the preſence of the great God, whoſe glorious fulneſſe <hi>the heaven and</hi> the <hi>Heaven of heavens cannot contain</hi> 
+               <note n="(z*****)" place="margin">1 King. 8. 27.</note> they have ſolemnly bound themſelves together, with their Poſterity<!-- ****** -->
+<note n="(a******)" place="margin">Deut. 29. 11.</note> in this excellent State and Order of the Goſpell, Unto <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich my ſoule is united, <hi>For</hi> the partaking of <hi>all</hi> his <hi>Promiſes</hi> 
+               <note n="(b******)" place="margin">2 Cor. 1. 20. 1 Cor. 3. 21, 22.</note> and injoyment of all his holy <hi>Ordinances</hi> 
+               <note n="(c******)" place="margin">Mat. 28. 19, 20. 1 Cor. 11. 2.</note> powerfully <note n="(d******)" place="margin">1 Co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 4. 20. 1 Theſ. 1. 5.</note> According t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his owne Inſtitutions, <hi>And</hi> ſo <hi>to walke in all his wayes</hi> 
+               <note n="(e******)" place="margin">Deut. 10. 12.</note> According to his Revealed <note n="(f******)" place="margin">Phil. 3. 15.</note> 
+               <hi>Will</hi> 
+               <note n="(g******)" place="margin">Rom. 12. 2.</note> Earneſtly deſiring, expecting, and longing af<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er, and patiently waiting and <hi>looking for that bleſſed hope, and the glorious appearing of that great God, and our Saviour Jeſus Chriſt</hi> 
+               <note n="(h******)" place="margin">Tit. 2. 13.</note> who <hi>ſhall co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi> 
+               <note n="(i******)" place="margin">Acts 1. 11.</note> 
+               <hi>the ſecond time, from heaven</hi> 
+               <note n="(k******)" place="margin">Heb. 9. 28. 1 Theſ. 1. 10.</note> 
+               <hi>in glory</hi> 
+               <note n="(l******)" place="margin">1 Theſ. 4. 16. Mat. 25, 31.</note> 
+               <hi>with all his Saints</hi> 
+               <note n="(m******)" place="margin">Zech. 14. 5. 1 Theſ. 3. 13.</note> 
+               <hi>and all the holy Angells with him</hi> 
+               <note n="(n******)" place="margin">Mat. 25. 31.</note> To <hi>judge</hi> both <hi>the</hi> living <hi>and the dead</hi> 
+               <note n="(o******)" place="margin">2 Tim. 4. 1.</note> And <hi>ſhall in a moment, in the twinckling of an eye</hi> 
+               <note n="(p******)" place="margin">1 Cor. 15. 52.</note> 
+               <hi>change</hi> 
+               <note n="(q******)" place="margin">
+                  <hi>V.</hi> 51.</note> 
+               <hi>our vile</hi> 
+               <note n="(r******)" place="margin">Philip. 3. 21.</note> and <hi>earthly bodies,</hi> 
+               <note n="(s******)" place="margin">1 Cor. 15. 47.</note> And make them immortall <note n="(t******)" place="margin">
+                  <hi>V.</hi> 53, 54.</note> and <hi>ſpirituall</hi> 
+               <note n="(u******)" place="margin">
+                  <hi>Ver.</hi> 44.</note> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ven <hi>like unto his glorious body</hi> 
+               <note n="(w******)" place="margin">Phil. 3, 21.</note> 
+               <hi>And ſhall reward every man according to his workes</hi> 
+               <note n="(x******)" place="margin">Mat. 16. 27.</note> 
+               <hi>The wicked</hi> 
+               <note n="(y******)" place="margin">&amp; 13. 49.</note> with <hi>everlasting puniſhment</hi> 
+               <note n="(z******)" place="margin">Mat. 25. 46.</note>
+               <!-- -->
+ who ſhall ſuffer <hi>the vengeance of eternall fire</hi> 
+               <note n="(a)" place="margin">Jude 7. 2 Th. 1. 8.</note> 
+               <hi>in hell</hi> 
+               <note n="(b)" place="margin">Pſ: 9. 17, 18. Rev. 20 13, 14.</note> But the Saints ſhall inherit <hi>eternall Sal<g ref="char:EOLhyphen"/>vation</hi> 
+               <note n="(c)" place="margin">Heb. 5. 9.</note> 
+               <hi>through the grace of the Lord Jeſus Christ</hi> 
+               <note n="(d)" place="margin">Acts 15. 11.</note> who<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <hi>love</hi> 
+               <note n="(e)" place="margin">Rom. 8. 35-39.</note> 
+               <hi>paſſeth knowledge</hi> 
+               <note n="(f)" place="margin">Epheſ. 3. 19.</note> And alwayes be in the favour <hi>of God</hi> the father, whoſe <hi>peace paſſeth all underſtanding</hi> 
+               <note n="(g)" place="margin">Phil. 4. 7.</note> And injoy the <hi>eternall glor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 
+               <note n="(h)" place="margin">1 Pet. 5. 10.</note> and brightneſſe, and <hi>fullneſſe</hi> 
+               <note n="(i)" place="margin">Eph. 3. 19.</note> 
+               <hi>and be filled with all the</hi> ſweetneſſe of the com<g ref="char:EOLhyphen"/>fortable <note n="(k)" place="margin">Luke 16. 25.</note> 
+               <hi>fellowſhip, of the</hi> eternall <hi>Spirit</hi> 
+               <note n="(l)" place="margin">Phil. 2. 1.</note> With all th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> holy Angells and glorified Saints in <hi>heaven</hi> 
+               <note n="(m)" place="margin">1 Theſ. 4. 14. 18.</note> 
+               <hi>For ever and ever</hi> 
+               <note n="(n)" place="margin">Rev. 22. 5.</note> more. <note place="margin">
+                  <hi>(h)</hi> 1 Cor. 15. 3, 4.</note> 
+               <note place="margin">
+                  <hi>[o] v.</hi> 21.</note>
+            </p>
+            <closer>Amen.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
